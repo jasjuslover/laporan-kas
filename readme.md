@@ -4,5 +4,5 @@ Simple Laravel - VueJS app for Cash Flow. This project built because I want to c
 
 ##### TO-DO Features
 
--   [] Simple authentication
--   [] Simple cash flow CRUD
+- [ ] Simple authentication
+- [ ] Simple cash flow CRUD
